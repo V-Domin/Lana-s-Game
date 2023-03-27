@@ -1,0 +1,63 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+#level-title {
+  /* font-family: 'Press Start 2P', cursive; */
+  font-family: 'Notable', sans-serif;
+  letter-spacing: 5px;
+  font-size: 2.7rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 0px solid black;
+  border-radius: 10%;
+  box-shadow: 0 0 10px 0 rgba(254,242,191, 0.5);
+
+}
+
+.game-over {
+  background-color: #FB536A;
+  opacity: 0.8;
+}
+
+.lust {
+  background-image: url('https://hips.hearstapps.com/hmg-prod/images/hbz-lana-lfl-1499463581.jpg');
+  background-size: cover;
+
+}
+
+.ocean {
+  background-image: url('https://music-b26f.kxcdn.com/wp-content/uploads/2022/12/Lana-Del-Rey-Album-Artwork-600x600.jpg');
+  background-size: cover;
+}
+
+.paradise {
+  background-image: url('https://upload.wikimedia.org/wikipedia/en/2/29/BornToDieAlbumCover.png');
+  background-size: cover;
+}
+
+.banister {
+  background-image: url('https://images-prod.dazeddigital.com/960/azure/dazed-prod/1300/1/1301209.jpg');
+  background-size: cover;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
